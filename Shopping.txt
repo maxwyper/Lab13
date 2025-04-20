@@ -1,0 +1,6 @@
+beer
+eggs
+beef
+cereal
+rice
+tea
